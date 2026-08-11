@@ -4,15 +4,15 @@
 
 Welcome to my GitHub portfolio.
 
-I am a cybersecurity student and aspiring cybersecurity professional building practical experience through hands-on projects in **cybersecurity, ethical hacking, network security, incident response, SIEM, container security, application security, and web development**.
+I am an aspiring cybersecurity professional building practical experience through hands-on projects in **cybersecurity, ethical hacking, network security, incident response, SIEM, container security, application security, and web development**.
 
-This repository serves as a central portfolio for selected projects that demonstrate my technical learning, practical skills, problem-solving, and continuous development.
+This repository serves as a central portfolio for selected projects that demonstrate my technical knowledge, practical skills, problem-solving, and continuous development.
 
 ---
 
 # 🧑‍💻 About Me
 
-I'm **Bazunu Ovierheya Omonefe Irene**, a cybersecurity student with a strong interest in understanding how systems work, identifying security weaknesses, building secure solutions, and responding to security threats.
+I'm **Bazunu Ovierheya Omonefe Irene**, an aspiring cybersecurity professional with a strong interest in understanding how systems work, identifying security weaknesses, building secure solutions, and responding to security threats.
 
 My areas of interest include:
 
