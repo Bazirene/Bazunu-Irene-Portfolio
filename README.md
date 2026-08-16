@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Bazunu Ovierheya Omonefe Irene
 
-## Cybersecurity | Ethical Hacking | Security Engineering | Web Development
+## Cybersecurity | Ethical Hacking | Security Engineering | Digital Forensic and Incident Response (DFIR) | SIEM | Container Security | Application Security | Web Development
 
 Welcome to my GitHub portfolio.
 
-I am an aspiring cybersecurity professional building practical experience through hands-on projects in **cybersecurity, ethical hacking, network security, incident response, SIEM, container security, application security, and web development**.
+I am an aspiring cybersecurity professional building practical experience through hands-on projects in **cybersecurity, ethical hacking, network security, digital forensics and Incident response incident response (DFIR), SIEM, container security, application security, and web development**.
 
 This repository serves as a central portfolio for selected projects that demonstrate my technical knowledge, practical skills, problem-solving, and continuous development.
 
@@ -12,13 +12,14 @@ This repository serves as a central portfolio for selected projects that demonst
 
 # 🧑‍💻 About Me
 
-I'm **Bazunu Ovierheya Omonefe Irene**, an aspiring cybersecurity professional with a strong interest in understanding how systems work, identifying security weaknesses, building secure solutions, and responding to security threats.
+I'm **Bazunu Ovierheya Omonefe Irene**, an aspiring cybersecurity professional with a strong interest in understanding how systems work, identifying security weaknesses, preserve evidence, building secure solutions, and responding to security threats.
 
 My areas of interest include:
 
 * 🔐 Cybersecurity
 * 🛡️ Defensive Security
 * ⚔️ Ethical Hacking
+* Digital Forensic and Incidence Response (DFIR)
 * 🌐 Network Security
 * 🚨 Incident Response
 * 📊 SIEM & Security Monitoring
@@ -275,6 +276,8 @@ Test
 Identify Risks
   ↓
 Detect Threats
+  |
+Preserve Evidence 
   ↓
 Respond
   ↓
@@ -296,6 +299,7 @@ I am continuously developing my knowledge and practical skills in:
 * Security operations
 * Threat detection
 * SIEM
+* Digital Forensic and Incident Response (DFIR)
 * Incident response
 * Network security
 * Container security
@@ -315,6 +319,7 @@ I am interested in collaborating on projects related to:
 * Defensive security
 * Security automation
 * Threat detection
+* Digital Forensic and Incident Response (DFIR)
 * Application security
 * Secure software development
 * Container security
