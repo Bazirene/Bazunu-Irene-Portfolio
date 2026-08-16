@@ -350,6 +350,6 @@ Thank you for taking the time to explore my portfolio.
 
 I am continuously learning, building, testing, and improving my technical and cybersecurity skills.
 
-> **Learn. Build. Test. Secure. Improve.**
+> **Learn. Build. Test. Identity and Protect. Detect. Respond. Investigate. Recover and Improve.**
 
 Feel free to explore the repositories above to learn more about my projects and practical work.
