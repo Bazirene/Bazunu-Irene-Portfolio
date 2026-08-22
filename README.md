@@ -166,6 +166,22 @@ The project demonstrates how security considerations can be incorporated into th
 [**View Operation Secure Core - Week 2 →**](https://github.com/Bazirene/operation-secure-core-week2)
 
 ---
+## 5. 🔐 OAuth 2.0 Authorization Server - Week 3
+
+### Secure Backend & Application Security
+
+A lightweight, production-focused OAuth 2.0 Authorization Server built using Node.js, Express, and `@node-oauth/express-oauth-server`. This project implements the secure `authorization_code` grant flow alongside an isolated multi-tier Docker infrastructure featuring Python, PostgreSQL (with SCRAM-SHA-256 encryption), and Redis caching.
+
+The project demonstrates advanced security engineering work including:
+- Decoupling API routing boundaries from data validation models
+- In-memory cryptographic tracking for authorization codes, access tokens, and refresh tokens
+- Implementation of standardized bearer-token authorization layers (`Authorization: Bearer <token>`)
+- Multi-network infrastructure containment using Docker volumes and unique service endpoints
+- PostgreSQL initialization configuration using hardened SCRAM-SHA-256 authentication
+
+### 🔗 Repository
+
+**[View OAuth 2.0 Authorization Server →](https://github.com)**
 
 # 🧰 Tools & Technologies
 
