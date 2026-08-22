@@ -163,7 +163,7 @@ The project demonstrates how security considerations can be incorporated into th
 
 ### 🔗 Repository
 
-[**View Operation Secure Core - Week 2 →**](https://github.com/Bazirene/operation-secure-core-week2)
+[**View Operation Secure Core - Week 2 →**](https://github.com/Bazirene/oauth-authorization-server)
 
 ---
 ## 5. 🔐 OAuth 2.0 Authorization Server - Week 3
