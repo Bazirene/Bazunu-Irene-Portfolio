@@ -183,6 +183,7 @@ The project demonstrates advanced security engineering work including:
 
 **[View OAuth 2.0 Authorization Server →](https://github.com/Bazirene/oauth-authorization-server)**
 
+---
 ## 6. 🔐 Broken-Oauth-Server
 ### Application Security & Cryptographic Remediation
 
@@ -203,7 +204,7 @@ The project demonstrates advanced security engineering work including:
 
 ### 🔗 Repository
 
-**[View Broken-Oauth-Server →]([https://github.com](https://github.com/Bazirene/week3-broken-auth-audit)**
+**[View Week3-Broken-Auth-Audit →](https://github.com/Bazirene/week3-broken-auth-audit)**
 
 # 🧰 Tools & Technologies
 
