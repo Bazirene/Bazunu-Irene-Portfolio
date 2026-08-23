@@ -183,6 +183,28 @@ The project demonstrates advanced security engineering work including:
 
 **[View OAuth 2.0 Authorization Server →](https://github.com/Bazirene/oauth-authorization-server)**
 
+## 6. 🔐 Broken-Oauth-Server
+### Application Security & Cryptographic Remediation
+
+A comprehensive security audit, vulnerability analysis, and patching repository focused on identifying and addressing broken authentication mechanisms in an Express-based OAuth/JWT service. This workspace walks through standard reverse engineering practices, threat assessment indexing, and defensive software remediation workflows.
+
+The project demonstrates advanced security engineering work including:
+- Performing source code reviews to identify hidden token logic bypass flows
+- Mapping authentication vulnerabilities to structural CWE and MITRE risk indexes
+- Neutralizing cryptographic signature forge risks by eliminating weak hardcoded secrets
+- Implementing strict token lifecycle boundaries via cryptographic expiry configurations (`exp`)
+- Binding API validation logic safely to decoded payloads rather than unauthenticated payload bodies
+
+### 🧰 Tools & Technologies Used
+*   **Audit Engine & Analysis:** Node.js, Express, JavaScript (ES Modules framework)
+*   **Cryptographic Libraries:** `jsonwebtoken` (JWT tracking), `crypto` module entropy generators
+*   **Defensive Engineering Rules:** Defensive validation pattern patches, payload binding verification
+*   **Validation Core Tooling:** Linux Curl Client environment, Bash environment scripting, JSON variables
+
+### 🔗 Repository
+
+**[View Broken-Oauth-Server →]([https://github.com](https://github.com/Bazirene/week3-broken-auth-audit))**
+
 # 🧰 Tools & Technologies
 
 ## Cybersecurity
