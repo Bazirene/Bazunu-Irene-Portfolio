@@ -203,7 +203,7 @@ The project demonstrates advanced security engineering work including:
 
 ### 🔗 Repository
 
-**[View Broken-Oauth-Server →]([https://github.com](https://github.com/Bazirene/week3-broken-auth-audit))**
+**[View Broken-Oauth-Server →]([https://github.com](https://github.com/Bazirene/week3-broken-auth-audit)**
 
 # 🧰 Tools & Technologies
 
