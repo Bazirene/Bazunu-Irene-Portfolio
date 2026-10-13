@@ -206,6 +206,68 @@ The project demonstrates advanced security engineering work including:
 
 **[View Week3-Broken-Auth-Audit →](https://github.com/Bazirene/week3-broken-auth-audit)**
 
+## 7. 🔐 Password Strength & Breach Checker with Watchdog Log Anonymization
+
+### Credential Security & Privacy-Preserving Breach Detection
+
+A Python-based credential security auditing tool developed on Kali Linux that evaluates password strength, checks exposure against known data breaches, and monitors credential logs in real time. Built with Streamlit, SQLite, Python Watchdog, and the Have I Been Pwned (HIBP) API, the project combines password complexity analysis with automated log sanitization to reduce the risk of plaintext credential exposure.
+
+The project demonstrates practical security engineering work including:
+
+- Privacy-preserving breach verification using the HIBP k-anonymity model and SHA-1 hash-prefix matching
+- Password complexity scoring and crack-time estimation using the `zxcvbn` engine
+- Real-time filesystem monitoring to detect new credential entries in `passwords.log`
+- Automated log sanitization to replace plaintext credentials with SHA-1 hashes
+- Structured security audit logging using SQLite, including timestamps, severity classifications, and event sources
+- Interactive Streamlit dashboard featuring password analysis, secure passphrase generation, email exposure checking, and historical audit records
+- Verification testing for breached credentials, high-entropy passwords, and automated file sanitization
+
+### 🔗 Repository
+
+**[View Week3-Broken-Auth-Audit →](https://github.com/Bazirene/ProStackHub_Password_Strength-Breach_Checker.git)**
+
+## 8. 🛡️ Host-Based Intrusion Detection (HIDS) + SOC AI Log Chatbox
+
+### Threat Detection, Security Operations & AI-Assisted Incident Response
+
+A Python-based Host-Based Intrusion Detection System (HIDS) developed on Kali Linux to monitor authentication logs, identify suspicious activity, and support security incident investigation. Using Python Watchdog, regular-expression-based detection, SQLite, Streamlit, and the Groq API, the project combines automated threat monitoring with an AI-powered security copilot that summarizes alerts and recommends defensive response actions.
+
+The project demonstrates practical security engineering work including:
+
+- Continuous monitoring of Linux authentication logs to identify suspicious security events- 
+- Detection and classification of SSH brute-force attempts, failed authentication, and privilege-escalation activity
+- Automated security event ingestion and structured storage in an indexed SQLite database
+- Real-time SOC dashboard displaying alert metrics, severity levels, source IP addresses, and event history
+- AI-assisted incident triage using recent security logs to generate threat summaries and remediation recommendations
+- Controlled attack simulation using THC-Hydra to validate SSH brute-force detection and alert generation
+- Verification of privilege-escalation detection and integration of AI-generated defensive firewall recommendations
+- Secure API-key management practices using environment variables and .gitignore to protect sensitive credentials
+
+🔗 Repository
+
+**[View Week3-Broken-Auth-Audit →](https://github.com/Bazirene/ProStackHub_Host-Based-Intrusion-Detection-System-HBID-AI-Log-Chatbox.git)**
+
+## 🔎 Network Vulnerability Scanner
+
+### Network Security Assessment & Automated CVE Detection
+
+A Python-based, full-stack network vulnerability scanner developed on Kali Linux to identify open ports, detect running services and software versions, and investigate known security vulnerabilities. Built using Flask, Nmap, the NIST National Vulnerability Database (NVD) REST API, and ReportLab, the application provides a web-based dashboard for viewing scan results and generating downloadable PDF vulnerability assessment reports.
+
+The project demonstrates practical security engineering work including:
+
+- Network reconnaissance and open-port discovery using Nmap and python-nmap
+- Service and software version detection to support vulnerability assessment
+- Integration with the NVD API to retrieve known Common Vulnerabilities and Exposures (CVEs) and CVSS severity scores
+- Automated vulnerability lookup based on detected software names and versions
+- Flask-based web dashboard for entering target details and displaying scan findings
+- PDF report generation using ReportLab, with structured vulnerability findings and target information
+- Python virtual environment isolation and modular application development across scanning, CVE lookup, reporting, and web interface components
+- Security assessment of authorized test systems to identify potential weaknesses and support remediation planning
+
+🔗 Repository
+
+**[View Week3-Broken-Auth-Audit →](https://github.com/Bazirene/ProStackHub_Network-Vulnerability-Scanner.git)**
+
 # 🧰 Tools & Technologies
 
 ## Cybersecurity
