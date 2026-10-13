@@ -4,15 +4,15 @@
 
 Welcome to my GitHub portfolio!
 
-I am an aspiring cybersecurity professional developing practical experience through hands-on projects in cybersecurity, ethical hacking, network security, digital forensics and incident response (DFIR), security monitoring, container security, application security, and secure software development.
+I am a cybersecurity professional developing practical experience through hands-on projects in cybersecurity, ethical hacking, network security, digital forensics and incident response (DFIR), security monitoring, container security, application security, and secure software development.
 
-This repository serves as a central portfolio of selected projects demonstrating my technical knowledge, problem-solving abilities, security engineering practices, and continuous professional development.
+This repository serves as a central portfolio of projects demonstrating my technical knowledge, problem-solving abilities, security engineering practices, and continuous professional development.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm Bazunu Ovierheya Omonefe Irene, an aspiring cybersecurity professional passionate about understanding how systems work, identifying vulnerabilities, preserving digital evidence, building secure applications, and responding to security threats.
+I'm Bazunu Ovierheya Omonefe Irene, a cybersecurity professional passionate about understanding how systems work, identifying vulnerabilities, preserving digital evidence, building secure applications, and responding to security threats.
 
 My areas of interest include:
 
