@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bazunu Ovierheya Omonefe Irene
 
-**Cybersecurity | Ethical Hacking | Security Engineering | Digital Forensics & Incident Response (DFIR) | SIEM | Container Security | Application Security**
+**Cybersecurity**
 
 Welcome to my GitHub portfolio!
 
